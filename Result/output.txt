@@ -1,0 +1,168 @@
+This are the times for each builder
+Builder 1: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 2: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 3: Real time = 0.450000 sec, CPU time = 0.000000 sec
+Builder 4: Real time = 0.450000 sec, CPU time = 0.000000 sec
+Builder 5: Real time = 0.440000 sec, CPU time = 0.020000 sec
+Builder 6: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 7: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 8: Real time = 0.450000 sec, CPU time = 0.000000 sec
+Builder 9: Real time = 0.450000 sec, CPU time = 0.000000 sec
+Builder 10: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 11: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 12: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 13: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 14: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 15: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 16: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 17: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 18: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 19: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 20: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 21: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 22: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 23: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 24: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 25: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 26: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 27: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 28: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 29: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 30: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 31: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 32: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 33: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 34: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 35: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 36: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 37: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 38: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 39: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 40: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 41: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 42: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 43: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 44: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 45: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 46: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 47: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 48: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 49: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 50: Real time = 0.440000 sec, CPU time = 0.000000 sec
+Builder 51: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 52: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 53: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 54: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 55: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 56: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 57: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 58: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 59: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 60: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 61: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 62: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 63: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 64: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 65: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 66: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 67: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 68: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 69: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 70: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 71: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 72: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 73: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 74: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 75: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 76: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 77: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 78: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 79: Real time = 0.420000 sec, CPU time = 0.020000 sec
+Builder 80: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 81: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 82: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 83: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 84: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 85: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 86: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 87: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 88: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 89: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 90: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 91: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 92: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 93: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 94: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 95: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 96: Real time = 0.430000 sec, CPU time = 0.000000 sec
+Builder 97: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 98: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 99: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 100: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 101: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 102: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 103: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 104: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 105: Real time = 0.410000 sec, CPU time = 0.020000 sec
+Builder 106: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 107: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 108: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 109: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 110: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 111: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 112: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 113: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 114: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 115: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 116: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 117: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 118: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 119: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 120: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 121: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 122: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 123: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 124: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 125: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 126: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 127: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 128: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 129: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 130: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 131: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 132: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 133: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 134: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 135: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 136: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 137: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 138: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 139: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 140: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 141: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 142: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 143: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 144: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 145: Real time = 0.420000 sec, CPU time = 0.000000 sec
+Builder 146: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 147: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 148: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 149: Real time = 0.410000 sec, CPU time = 0.000000 sec
+Builder 150: Real time = 0.410000 sec, CPU time = 0.000000 sec
+
+The top 10 popular words in the file are :
+Word: the, Frequency: 10.55 % 
+Word: i, Frequency: 8.30 % 
+Word: was, Frequency: 3.66 % 
+Word: had, Frequency: 2.73 % 
+Word: said, Frequency: 1.73 % 
+Word: were, Frequency: 1.03 % 
+Word: mr, Frequency: 0.92 % 
+Word: joe, Frequency: 0.89 % 
+Word: is, Frequency: 0.84 % 
+Word: been, Frequency: 0.79 % 
+
+Number of SIGUSR1 signals received from splitter: 85
+Number of SIGUSR2 signals received from builder: 28
+
+Run time of the main program was 1.060000 sec and we used the CPU for 0.640000 sec 

@@ -22,7 +22,7 @@ $(TARGET): $(OBJS)
 
 # Execute the program  GreatExpectations.txt
 run:
-	./$(TARGET) -i GreatExpectations.txt -l 100 -m 150 -t 10 -e ExclusionList.txt -o output.txt
+	./$(TARGET) -i TestFiles/GreatExpectations.txt -l 100 -m 150 -t 10 -e TestFiles/ExclusionList.txt -o Result/output.txt
 
 # For the memory leaks
 valgrind:
@@ -31,4 +31,4 @@ valgrind:
 
 # Remove the object files
 clean:
-	rm -f $(OBJS) $(TARGET)
+	rm -f $(OBJS) $(TARGET) splitter builder
